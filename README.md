@@ -10,3 +10,5 @@ A simple Reaction-based game made entirely in 'C'
 - More...
 
 <img width="962" height="747" alt="image" src="https://github.com/user-attachments/assets/f7a99abd-1d92-43ec-9907-589f05bff7cf" />
+
+Made with ❤️ by Berniea5
