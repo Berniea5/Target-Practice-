@@ -1,6 +1,6 @@
 # Target-Practice-
 
-![Language](https://img.shields.io/badge/Language-C-blue) ![Library](https://img.shields.io/badge/Library-Raylib-green) ![Platform](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.9.8-blue)\
+![Language](https://img.shields.io/badge/Language-C-blue) ![Library](https://img.shields.io/badge/Library-Raylib-green) ![Platform](https://img.shields.io/badge/Platform-Windows-blue) ![Version](https://img.shields.io/badge/Version-0.9.8-blue)
 
 **A Reaction-based game made entirely in 'C'**
 
